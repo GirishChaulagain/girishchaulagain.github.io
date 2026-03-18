@@ -1,6 +1,6 @@
-baseURL = 'https://GirishChaulagain.github.io/'
+baseURL = 'https://girishchaulagain.github.io/'
 languageCode = 'en-us'
-title = 'My Portfolio'
+title = 'Hello'
 theme = 'PaperMod'
 
 [params]

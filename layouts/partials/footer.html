@@ -1,7 +1,9 @@
 {{- if not (.Param "hideFooter") }}
 <footer class="footer">
+  <div>
     <div id="webring"></div>
     <script src="https://ringring.rajatdahal.com.np/webring.js"></script>
+  </div>
     {{- if not site.Params.footer.hideCopyright }}
         {{- if site.Copyright }}
         <span>{{ site.Copyright | markdownify }}</span>

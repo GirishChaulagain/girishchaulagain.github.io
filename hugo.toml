@@ -1,12 +1,12 @@
 baseURL = 'https://girishchaulagain.github.io/'
 languageCode = 'en-us'
-title = 'Hello'
+title = 'Girish Chaulagain'
 theme = 'PaperMod'
 
 [params]
     [params.profileMode]
         enabled = true
-        title = "Hello"
+        title = "Sup"
 
     [[params.socialIcons]]
         name = "github"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Girish Chaulagain</title>
-    <link>http://localhost:1313/</link>
+    <link>https://girishchaulagain.github.io/</link>
     <description>Recent content on Girish Chaulagain</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Mar 2026 22:31:50 +0545</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://girishchaulagain.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
-      <link>http://localhost:1313/posts/</link>
+      <link>https://girishchaulagain.github.io/posts/</link>
       <pubDate>Wed, 18 Mar 2026 22:31:50 +0545</pubDate>
-      <guid>http://localhost:1313/posts/</guid>
+      <guid>https://girishchaulagain.github.io/posts/</guid>
       <description></description>
     </item>
   </channel>
